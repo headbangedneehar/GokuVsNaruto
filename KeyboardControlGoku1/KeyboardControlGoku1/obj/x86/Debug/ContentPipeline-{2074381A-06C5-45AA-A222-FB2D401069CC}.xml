@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>flying.png</Source>
+      <Name>flying</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\flying.xnb</Output>
+      <Time>2015-05-30T03:33:48.77715-04:00</Time>
+    </Item>
+    <Item>
+      <Source>punchAtlas.png</Source>
+      <Name>punchAtlas</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\punchAtlas.xnb</Output>
+      <Time>2015-05-30T05:20:23.3383936-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gokukick.png</Source>
+      <Name>gokukick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokukick.xnb</Output>
+      <Time>2015-05-30T05:08:48.0293991-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gokupower13.png</Source>
+      <Name>gokupower13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokupower13.xnb</Output>
+      <Time>2015-05-18T13:22:05.0390615-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gokuproj1.png</Source>
+      <Name>gokuproj1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokuproj1.xnb</Output>
+      <Time>2015-05-18T14:03:23.3757593-04:00</Time>
+    </Item>
+    <Item>
+      <Source>slice03_03.png</Source>
+      <Name>slice03_03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\slice03_03.xnb</Output>
+      <Time>2015-05-18T14:06:37.0684099-04:00</Time>
+    </Item>
+    <Item>
+      <Source>narustance.png</Source>
+      <Name>narustance</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narustance.xnb</Output>
+      <Time>2015-05-19T11:48:57.704455-04:00</Time>
+    </Item>
+    <Item>
+      <Source>narurun.png</Source>
+      <Name>narurun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narurun.xnb</Output>
+      <Time>2015-05-19T12:21:29.5528725-04:00</Time>
+    </Item>
+    <Item>
+      <Source>narutoback.png</Source>
+      <Name>narutoback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narutoback.xnb</Output>
+      <Time>2015-05-19T13:34:19.7982927-04:00</Time>
+    </Item>
+    <Item>
+      <Source>narukick.png</Source>
+      <Name>narukick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narukick.xnb</Output>
+      <Time>2015-05-26T23:14:02.2846201-04:00</Time>
+    </Item>
+    <Item>
+      <Source>narupunch.png</Source>
+      <Name>narupunch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narupunch.xnb</Output>
+      <Time>2015-05-26T23:14:11.1856551-04:00</Time>
+    </Item>
+    <Item>
+      <Source>narusp1.png</Source>
+      <Name>narusp1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narusp1.xnb</Output>
+      <Time>2015-05-28T09:19:42.2100054-04:00</Time>
+    </Item>
+    <Item>
+      <Source>narusp.png</Source>
+      <Name>narusp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narusp.xnb</Output>
+      <Time>2015-05-28T23:28:47.5536076-04:00</Time>
+    </Item>
+    <Item>
+      <Source>narupower1.png</Source>
+      <Name>narupower1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narupower1.xnb</Output>
+      <Time>2015-05-28T23:42:29.1956171-04:00</Time>
+    </Item>
+    <Item>
+      <Source>naruproj.png</Source>
+      <Name>naruproj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\naruproj.xnb</Output>
+      <Time>2015-05-29T00:32:02.7800677-04:00</Time>
+    </Item>
+    <Item>
+      <Source>bomb.png</Source>
+      <Name>bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\bomb.xnb</Output>
+      <Time>2015-05-29T15:11:24.4589588-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gokuspiritbomb.png</Source>
+      <Name>gokuspiritbomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokuspiritbomb.xnb</Output>
+      <Time>2015-05-29T15:49:16.3482918-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gokufall.png</Source>
+      <Name>gokufall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokufall.xnb</Output>
+      <Time>2015-05-30T04:15:08.5945209-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites.png</Source>
+      <Name>sprites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\sprites.xnb</Output>
+      <Time>2015-05-30T03:31:23.9906825-04:00</Time>
+    </Item>
+    <Item>
+      <Source>narujump.png</Source>
+      <Name>narujump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narujump.xnb</Output>
+      <Time>2015-05-30T05:57:10.6533331-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gokujump.png</Source>
+      <Name>gokujump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokujump.xnb</Output>
+      <Time>2015-05-30T12:01:02.1512754-04:00</Time>
+    </Item>
+    <Item>
+      <Source>narudown.png</Source>
+      <Name>narudown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narudown.xnb</Output>
+      <Time>2015-05-31T03:39:25.9509353-04:00</Time>
+    </Item>
+    <Item>
+      <Source>naruhit.png</Source>
+      <Name>naruhit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\naruhit.xnb</Output>
+      <Time>2015-05-31T03:42:42.874565-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gokuhit.png</Source>
+      <Name>gokuhit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokuhit.xnb</Output>
+      <Time>2015-05-31T03:44:55.0471799-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gokudown.png</Source>
+      <Name>gokudown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokudown.xnb</Output>
+      <Time>2015-05-31T03:46:05.717789-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gokuface.png</Source>
+      <Name>gokuface</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokuface.xnb</Output>
+      <Time>2015-06-01T00:58:09.2309424-04:00</Time>
+    </Item>
+    <Item>
+      <Source>naruface.png</Source>
+      <Name>naruface</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\naruface.xnb</Output>
+      <Time>2015-06-01T00:58:21.1450344-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gokutop.png</Source>
+      <Name>gokutop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokutop.xnb</Output>
+      <Time>2015-06-01T01:32:04.7444286-04:00</Time>
+    </Item>
+    <Item>
+      <Source>narutop.png</Source>
+      <Name>narutop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narutop.xnb</Output>
+      <Time>2015-06-01T01:36:24.1122072-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gokupowerup.png</Source>
+      <Name>gokupowerup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokupowerup.xnb</Output>
+      <Time>2015-06-01T09:03:45.362342-04:00</Time>
+    </Item>
+    <Item>
+      <Source>narupowerup.png</Source>
+      <Name>narupowerup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narupowerup.xnb</Output>
+      <Time>2015-06-01T12:00:36.0045133-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gokupower1.png</Source>
+      <Name>gokupower1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokupower1.xnb</Output>
+      <Time>2015-06-02T00:55:36.3285189-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial20.spritefont</Source>
+      <Name>Arial20</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\Arial20.xnb</Output>
+      <Time>2015-06-01T12:52:04.217559-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{2074381A-06C5-45AA-A222-FB2D401069CC}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1Content\</RootDirectory>
+      <LoggerRootDirectory>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-10-04T18:13:03.649296-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

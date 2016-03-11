@@ -1,0 +1,2 @@
+F:\GameProgramming\Random\KeyboardControlGoku1\KeyboardControlGoku1\KeyboardControlGoku1Content\obj\x86\Debug\KeyboardControlGoku1Content.contentprojResolveAssemblyReference.cache
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1Content\obj\x86\Debug\KeyboardControlGoku1Content.contentprojResolveAssemblyReference.cache

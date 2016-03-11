@@ -1,0 +1,64 @@
+F:\GameProgramming\Random\KeyboardControlGoku1\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\sprites.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\KeyboardControlGoku1.exe
+F:\GameProgramming\Random\KeyboardControlGoku1\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\KeyboardControlGoku1.pdb
+F:\GameProgramming\Random\KeyboardControlGoku1\KeyboardControlGoku1\KeyboardControlGoku1\obj\x86\Debug\KeyboardControlGoku1.csprojResolveAssemblyReference.cache
+F:\GameProgramming\Random\KeyboardControlGoku1\KeyboardControlGoku1\KeyboardControlGoku1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\GameProgramming\Random\KeyboardControlGoku1\KeyboardControlGoku1\KeyboardControlGoku1\obj\x86\Debug\KeyboardControlGoku1.exe
+F:\GameProgramming\Random\KeyboardControlGoku1\KeyboardControlGoku1\KeyboardControlGoku1\obj\x86\Debug\KeyboardControlGoku1.pdb
+F:\GameProgramming\Random\KeyboardControlGoku1\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\flying.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\punchAtlas.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokukick.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\obj\x86\Debug\KeyboardControlGoku1.csprojResolveAssemblyReference.cache
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\sprites.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\flying.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\punchAtlas.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokukick.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokupower1.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokuproj1.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\slice03_03.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokupower13.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narustance.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narurun.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narutoback.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narukick.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narupunch.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narusp.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narusp1.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narupower1.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\naruproj.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\bomb.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokuspiritbomb.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokufall.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narujump.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokujump.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narudown.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\naruhit.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokuhit.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokudown.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokuface.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\naruface.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokutop.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narutop.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\gokupowerup.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\narupowerup.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Content\Arial20.xnb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Goku Vs Naruto.exe.manifest
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Goku Vs Naruto.application
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Goku Vs Naruto.exe
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Goku Vs Naruto.pdb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\obj\x86\Debug\Goku Vs Naruto.TrustInfo.xml
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\obj\x86\Debug\Goku Vs Naruto.exe.manifest
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\obj\x86\Debug\Goku Vs Naruto.application
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\obj\x86\Debug\Goku Vs Naruto.exe
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\obj\x86\Debug\Goku Vs Naruto.pdb
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\GameProgramming\Random\KeyboardControlGoku1 - Copy\KeyboardControlGoku1\KeyboardControlGoku1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
